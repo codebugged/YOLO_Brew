@@ -1,10 +1,10 @@
-# YOLO_Brew
-The most basic implementation of Yolo algorithm using Python framework
+## YOLO_Brew
+### The most basic implementation of Yolo algorithm using Python framework
 
-What is YOLO ?
+#### What is YOLO ?
 Yolo is a deep learning algorythm for object detcetion. With yolo we can detect objects at a relatively high speed. With a GPU we would be able to process over 45 frames/second while with a CPU around a frame per second.
 
-3 most used and known frameworks compatible with YOLO and the advantages and disadvantages of each one:
+#### 3 most used and known frameworks compatible with YOLO and the advantages and disadvantages of each one:
 
 1. Darknet : it’s the framework built from the developer of YOLO and made specifically for yolo.
 Advantage: it’s fast, it can work with GPU or CPU
@@ -19,7 +19,7 @@ Advantage: it works without needing to install anything except opencv.
 Disadvantage: it only works with CPU, so you can’t get really high speed to process videos in real time.
 
 
-To run the algorithm we need three files:
+#### To run the algorithm we need three files:
 
 1. Weight file: it’s the trained model, the core of the algorythm to detect the objects.
 2. Cfg file: it’s the configuration file, where there are all the settings of the algorythm.
