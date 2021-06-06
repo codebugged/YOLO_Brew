@@ -24,3 +24,8 @@ Disadvantage: it only works with CPU, so you can’t get really high speed to pr
 1. Weight file: it’s the trained model, the core of the algorythm to detect the objects.
 2. Cfg file: it’s the configuration file, where there are all the settings of the algorythm.
 3. Name files: contains the name of the objects that the algorythm can detect.
+
+
+
+For weights and cfg
+https://hackmd.io/NFj2NrmqTcefjc2l94KjpQ
